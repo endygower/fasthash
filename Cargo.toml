@@ -1,0 +1,8 @@
+[package]
+name = "fast-hash"
+version = "0.1.0"
+edition = "2021"
+
+[dev-dependencies]
+fasthash-sys = { path = "./fasthash-sys"}
+quickcheck = "1.0.3"
